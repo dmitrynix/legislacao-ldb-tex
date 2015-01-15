@@ -1,0 +1,15 @@
+*.aux
+*.bbl
+*.blg
+*.ilg
+*.lof
+*.log
+*.lot
+*.nav
+*.nlo
+*.nls
+*.out
+*.pdf
+*.snm
+*.toc
+Items.bib
